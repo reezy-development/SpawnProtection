@@ -1,0 +1,8 @@
+name: SpawnProtection
+main: de.verdreckt.spawnprotection.SpawnProtection
+version: 1.0
+api-version: 1.19
+commands:
+    location:
+        description: SpawnProtection
+        aliases: [loc]
